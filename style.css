@@ -1,0 +1,35 @@
+
+
+html {
+background-color: #E4E9FD;
+background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+min-height: 700px;
+font-family: 'helvetica neue';
+}
+
+body{
+  text-align: center;
+}
+
+
+.heading{
+ text-align: center;
+ font-size: 300%;
+ font-family: 'Pacifico', cursive;
+}
+.Kit{
+
+  height: 150px;
+  width: 150px;
+  outline: none;
+ border: 10px solid #404B69;
+ border-radius: 20px;
+ font-size: 5rem;
+ font-family: 'Arvo' cursive;
+ font-weight: 900;
+   margin: 1%;
+  text-shadow: 3px 0 #DBEDF3;
+
+  color:#61d4b3;
+
+}
